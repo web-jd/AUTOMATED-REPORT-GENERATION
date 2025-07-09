@@ -135,3 +135,6 @@ Conclusion
 
 Python offers a flexible and powerful platform for automated report generation. From data acquisition and processing to visualization and file creation, Python streamlines the entire reporting pipeline. By automating routine reporting tasks, organizations can focus more on analysis and decision-making rather than manual document preparation. As a result, Python-based automation not only saves time and resources but also improves the reliability and impact of reports.
 
+
+#OUTPUT: ![Image](https://github.com/user-attachments/assets/a0922964-a273-4a70-b62d-cc8735c693ce)
+
